@@ -1,5 +1,5 @@
 # termbase
-A simple, terminal-based "CRM" for your personal and "business" needs
+A simple, terminal-based ""CRM"" / contact manager for your personal and "business" needs
 
 ![termbase](https://files.catbox.moe/4xpk9r.png)
 
